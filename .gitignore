@@ -1,3 +1,6 @@
 .DS_Store
 __pycache__/
 tools/
+
+# unison: temp files left by an interrupted sync
+.unison.*
